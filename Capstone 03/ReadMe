@@ -1,7 +1,6 @@
 The project "Breast Cancer Diagnosis using Image Processing and Deep Learning" focuses on classifying cancer MRI images into 
 pCR (label 0) and non-pCR (label 1). The dataset is an image folder and a CSV file that contains the labels. Please check the
-main code file "cancer_net_bca_Menacer.ipynb"
+main code file "cancer_net_bca_Menacer.ipynb".
 
-Accurate classification helps in evaluating patient responses to treatments
-. Utilizes a convolutional neural network model to automate classification, saving time for healthcare professionals.
-Aimed at enhancing patient outcomes and optimizing healthcare through advanced image analysis.
+Accurate classification helps in evaluating patient responses to treatments. Using a convolutional neural network model to 
+automate classification, saving time for healthcare professionals, which aims at enhancing patient outcomes and optimizing healthcare through advanced image analysis.
