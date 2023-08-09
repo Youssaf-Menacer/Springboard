@@ -1,0 +1,5 @@
+Project focuses on classifying cancer MRI images into pCR (label 0) and non-pCR (label 1).
+
+Accurate classification helps in evaluating patient responses to treatments
+. Utilizes a convolutional neural network model to automate classification, saving time for healthcare professionals.
+Aimed at enhancing patient outcomes and optimizing healthcare through advanced image analysis.
